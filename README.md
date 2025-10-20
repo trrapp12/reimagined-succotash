@@ -2,6 +2,8 @@
 
 ## Emotional Resilience
 
+    <span style="color: red;">This text is red.</span>
+
 <details>
   <summary>Click to expand</summary>
   This is the content that will be hidden until expanded.
